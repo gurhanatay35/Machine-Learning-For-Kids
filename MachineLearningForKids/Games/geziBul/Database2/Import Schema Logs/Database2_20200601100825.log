@@ -1,0 +1,101 @@
+1.6.2020 13:08:25	This log contains information about the import schema operation into project 'Database2' on computer 'GURHAN' by user 'gurhanatay'.
+1.6.2020 13:08:25	Import of database schema has started.
+1.6.2020 13:08:27	Gathering error messages
+1.6.2020 13:08:27	Gathering cryptographic providers
+1.6.2020 13:08:27	Gathering credentials
+1.6.2020 13:08:27	Gathering logins
+1.6.2020 13:08:27	Gathering server roles
+1.6.2020 13:08:27	Gathering server role memberships
+1.6.2020 13:08:27	Gathering linked servers
+1.6.2020 13:08:27	Gathering linked server logins
+1.6.2020 13:08:27	Gathering routes
+1.6.2020 13:08:27	Gathering ddl triggers
+1.6.2020 13:08:27	Gathering encrypted and clr ddl triggers
+1.6.2020 13:08:27	Gathering event notifications
+1.6.2020 13:08:27	Gathering server audits
+1.6.2020 13:08:27	Gathering server audit specifications
+1.6.2020 13:08:28	Gathering event notifications
+1.6.2020 13:08:28	Gathering database credentials
+1.6.2020 13:08:28	Gathering database options
+1.6.2020 13:08:28	Gathering generic database scoped configuration option
+1.6.2020 13:08:28	Gathering users
+1.6.2020 13:08:28	Gathering roles
+1.6.2020 13:08:28	Gathering application roles
+1.6.2020 13:08:28	Gathering role memberships
+1.6.2020 13:08:28	Gathering filegroups
+1.6.2020 13:08:28	Gathering files
+1.6.2020 13:08:28	Gathering full-text catalogs
+1.6.2020 13:08:28	Gathering assemblies
+1.6.2020 13:08:28	Gathering certificates
+1.6.2020 13:08:28	Gathering asymmetric keys
+1.6.2020 13:08:28	Gathering symmetric keys
+1.6.2020 13:08:28	Gathering encrypted symmetric keys
+1.6.2020 13:08:28	Gathering database encryption keys
+1.6.2020 13:08:28	Gathering schemas
+1.6.2020 13:08:28	Gathering XML schema collections
+1.6.2020 13:08:28	Gathering user-defined data types
+1.6.2020 13:08:28	Gathering user-defined types
+1.6.2020 13:08:28	Gathering table types
+1.6.2020 13:08:28	Gathering unique keys for table types
+1.6.2020 13:08:28	Gathering primary keys for table types
+1.6.2020 13:08:28	Gathering indexes for table types
+1.6.2020 13:08:28	Gathering check constraints for table types
+1.6.2020 13:08:28	Gathering default constraints for table types
+1.6.2020 13:08:28	Gathering partition functions
+1.6.2020 13:08:28	Gathering partition schemes
+1.6.2020 13:08:28	Gathering functions
+1.6.2020 13:08:28	Gathering encrypted functions
+1.6.2020 13:08:28	Gathering aggregates
+1.6.2020 13:08:28	Gathering procedures
+1.6.2020 13:08:28	Gathering encrypted procedures
+1.6.2020 13:08:28	Gathering tables
+1.6.2020 13:08:28	Gathering primary keys
+1.6.2020 13:08:28	Gathering unique constraints
+1.6.2020 13:08:28	Gathering foreign keys
+1.6.2020 13:08:28	Gathering default constraints
+1.6.2020 13:08:28	Gathering check constraints
+1.6.2020 13:08:28	Gathering views
+1.6.2020 13:08:28	Gathering encrypted views
+1.6.2020 13:08:28	Gathering indexes
+1.6.2020 13:08:28	Gathering statistics
+1.6.2020 13:08:28	Gathering full-text index stoplists
+1.6.2020 13:08:28	Gathering search property lists
+1.6.2020 13:08:28	Gathering search properties
+1.6.2020 13:08:28	Gathering full-text indexes
+1.6.2020 13:08:28	Gathering column store indexes
+1.6.2020 13:08:28	Gathering spatial indexes
+1.6.2020 13:08:28	Gathering XML indexes
+1.6.2020 13:08:28	Gathering Selective XML indexes
+1.6.2020 13:08:28	Gathering encrypted triggers
+1.6.2020 13:08:28	Gathering triggers
+1.6.2020 13:08:28	Gathering encrypted and clr ddl triggers
+1.6.2020 13:08:28	Gathering ddl triggers
+1.6.2020 13:08:28	Gathering synonyms
+1.6.2020 13:08:28	Gathering defaults
+1.6.2020 13:08:28	Gathering data constraint uddt bindings
+1.6.2020 13:08:28	Gathering rules
+1.6.2020 13:08:28	Gathering data constraint uddt bindings
+1.6.2020 13:08:28	Gathering message types
+1.6.2020 13:08:28	Gathering queues
+1.6.2020 13:08:28	Gathering contracts
+1.6.2020 13:08:28	Gathering services
+1.6.2020 13:08:28	Gathering routes
+1.6.2020 13:08:28	Gathering event notifications
+1.6.2020 13:08:28	Gathering remote service bindings
+1.6.2020 13:08:28	Gathering broker priorities
+1.6.2020 13:08:28	Gathering database audit specifications
+1.6.2020 13:08:28	Gathering signatures
+1.6.2020 13:08:28	Gathering data compression options
+1.6.2020 13:08:28	Gathering sequence types
+1.6.2020 13:08:28	Gathering security policies
+1.6.2020 13:08:28	Gather column encryption keys
+1.6.2020 13:08:28	Gathering column master keys
+1.6.2020 13:08:28	Gathering external data sources
+1.6.2020 13:08:28	Gathering external file formats
+1.6.2020 13:08:28	Gathering external tables
+1.6.2020 13:08:28	Gathering extended properties
+1.6.2020 13:08:29	Scanning project for duplicate elements
+1.6.2020 13:08:29	Finished duplicate element processing
+1.6.2020 13:08:29	Finished importing database.
+1.6.2020 13:08:29	A summary of the import was saved to the following location: C:\Users\gurhanatay\source\repos\geziBul\Database2\Import Schema Logs\Database2_20200601100825.log
+1.6.2020 13:08:29	Click Finish to continue...

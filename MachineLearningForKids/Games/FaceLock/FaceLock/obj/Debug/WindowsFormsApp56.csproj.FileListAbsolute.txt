@@ -1,0 +1,184 @@
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\cvextern.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\OpenCL.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_calib3d2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_contrib2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_core2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_features2d2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_flann2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_gpu2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_highgui2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_imgproc2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_legacy2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_ml2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_nonfree2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_objdetect2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_photo2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_stitching2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_superres2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_video2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_videostab2410.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe.config
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.pdb
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.GPU.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.ML.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.OCR.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.OpenCL.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.Stitching.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.UI.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.VideoStab.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.Util.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ZedGraph.dll
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.GPU.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.ML.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.OCR.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.OpenCL.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.Stitching.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.UI.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.VideoStab.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.Util.xml
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.Form1.resources
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.Properties.Resources.resources
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.csproj.GenerateResource.Cache
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.exe
+c:\users\genç\documents\visual studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.pdb
+C:\Users\Genç\Documents\Visual Studio 2017\Projects\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.csprojResolveAssemblyReference.cache
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\cvextern.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\OpenCL.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_calib3d2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_contrib2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_core2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_features2d2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_flann2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_gpu2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_highgui2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_imgproc2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_legacy2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_ml2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_nonfree2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_objdetect2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_photo2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_stitching2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_superres2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_video2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\opencv_videostab2410.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe.config
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.exe
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\WindowsFormsApp56.pdb
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ZedGraph.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.ML.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.UI.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Emgu.Util.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.csprojAssemblyReference.cache
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.Properties.Resources.resources
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.csproj.GenerateResource.cache
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.csproj.CoreCompileInputs.cache
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.csproj.CopyComplete
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.exe
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.pdb
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\bdr.exe
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.Licensing.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.FaceLock.resources
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\umt_m\source\repos\WindowsFormsApp56\WindowsFormsApp56\obj\Debug\WindowsFormsApp56.Phone.resources

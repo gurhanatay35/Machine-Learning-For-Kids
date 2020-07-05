@@ -1,0 +1,13 @@
+C:\Users\Serdar\source\repos\MachineLearningForKids\MachineLearningForKids\bin\Debug\MachineLearningForKids.exe.config
+C:\Users\Serdar\source\repos\MachineLearningForKids\MachineLearningForKids\bin\Debug\MachineLearningForKids.exe
+C:\Users\Serdar\source\repos\MachineLearningForKids\MachineLearningForKids\bin\Debug\MachineLearningForKids.pdb
+C:\Users\Serdar\source\repos\MachineLearningForKids\MachineLearningForKids\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Serdar\source\repos\MachineLearningForKids\MachineLearningForKids\obj\Debug\MachineLearningForKids.Form1.resources
+C:\Users\Serdar\source\repos\MachineLearningForKids\MachineLearningForKids\obj\Debug\MachineLearningForKids.Properties.Resources.resources
+C:\Users\Serdar\source\repos\MachineLearningForKids\MachineLearningForKids\obj\Debug\MachineLearningForKids.csproj.GenerateResource.cache
+C:\Users\Serdar\source\repos\MachineLearningForKids\MachineLearningForKids\obj\Debug\MachineLearningForKids.csproj.CopyComplete
+C:\Users\Serdar\source\repos\MachineLearningForKids\MachineLearningForKids\obj\Debug\MachineLearningForKids.exe
+C:\Users\Serdar\source\repos\MachineLearningForKids\MachineLearningForKids\obj\Debug\MachineLearningForKids.pdb
+C:\Users\Serdar\source\repos\MachineLearningForKids\MachineLearningForKids\bin\Debug\yolov2-tiny-voc.cfg
+C:\Users\Serdar\source\repos\MachineLearningForKids\MachineLearningForKids\bin\Debug\yolov2-tiny-voc.weights
+C:\Users\Serdar\source\repos\MachineLearningForKids\MachineLearningForKids\bin\Debug\voc.names
